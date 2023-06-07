@@ -6,7 +6,12 @@ Creates ASCII art out of images
 The program corresponds pixels to ascii characters based on their brightness values. Finally every nth line is
 outputted on the terminal to resize it to fit the screen
 
-For example:
+## For example:
+
+![image](https://github.com/ut21/ASCII-art/assets/114133139/020544e1-c8bb-4a44-bb0f-55b77eb5955f)
+
+
+becomes this:
 ```
 ________________________________________________________________________11_1111111111___11____111111
 ________________________________________________________________________11_111111111____11____111111
